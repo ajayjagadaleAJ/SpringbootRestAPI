@@ -1,8 +1,8 @@
 # SpringbootRestAPI
 CRUD Operation for Students Data
 
-# Postaman tool - POST Method
-  <li>To Store Student Data: http://localhost:8080/students</li>
+ <li> Postaman tool - POST Method
+  To Store Student Data: http://localhost:8080/students</li>
 
 # Postaman tool - GET Method
   <li>Dispaly All Students Data: http://localhost:8080/display </li
