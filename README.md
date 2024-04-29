@@ -5,7 +5,7 @@ CRUD Operation for Students Data
   To Store Student Data: http://localhost:8080/students</li>
 
  <li> Postaman tool - GET Method |
-  Dispaly All Students Data: http://localhost:8080/display </li
+  Dispaly All Students Data: http://localhost:8080/display </li>
 
  <li> Postaman tool - GET Method |
   Find student by Id: http://localhost:8080/student/{id} </li> 
