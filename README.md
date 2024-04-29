@@ -1,7 +1,7 @@
 # SpringbootRestAPI
 CRUD Operation for Students Data
 
-<ul>
+
   #Postaman tool - POST Method
   <li>To Store Student Data: http://localhost:8080/students</li>
 
@@ -16,5 +16,5 @@ CRUD Operation for Students Data
   
  #Postaman tool - GET Method
   <li>Delete Students Data by Id: http://localhost:8080/delete/{id} </li>
-</ul>
+
 
