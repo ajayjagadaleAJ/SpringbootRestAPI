@@ -1,5 +1,5 @@
 # SpringbootRestAPI
-CRUD Operation for Students Data
+CURD Operation for Students Data
 
  <li> Postaman tool - POST Method |
   To Store Student Data: http://localhost:8080/students</li>
